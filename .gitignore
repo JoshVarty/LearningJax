@@ -6,9 +6,6 @@ __pycache__/
 # C extensions
 *.so
 
-# Ignore MovieLens (It's 950MB+ so GitHub won't let me commit it)
-data/
-
 # Distribution / packaging
 .Python
 build/
